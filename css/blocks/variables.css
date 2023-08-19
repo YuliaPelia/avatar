@@ -1,0 +1,60 @@
+body {
+    font-family: "Inter";
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.btn {
+    border-radius: 35px 0px;
+    border: 2px solid #26C7EA;
+    background: #0B0E66;
+    padding: 7px 38px;
+    color: #26C6EA;
+    font-size: 20px;
+    font-family: HeadlandOne;
+    cursor: pointer;
+    width: 141px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.descr {
+    color: #FFF;
+    font-size: 20px;
+    line-height: 25px;
+
+}
+
+.title {
+    color: #141414;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.author {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.overlay {
+    background-color: rgba(43, 74, 97, 0.87);
+
+}

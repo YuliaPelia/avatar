@@ -1,0 +1,54 @@
+.header {
+    border-bottom: 3px solid #FFF;
+    background: url(../../img/bg_header.png) center/cover no-repeat;
+
+}
+
+.header .overlay {
+    padding: 39px 0;
+    background: rgba(43, 74, 97, 0.87);
+}
+
+
+.header_menu a {
+    display: block;
+
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 300;
+    transition: 0.5s;
+
+}
+
+.header_menu a:hover {
+    color: #94CFFF;
+    scale: 1.2;
+    font-weight: 600;
+}
+
+.header_switch {
+    color: #FFF;
+    font-size: 16px;
+    font-family: Hammersmith One;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_menu {
+    display: flex;
+    align-items: center;
+    gap: 38px;
+}
+
+.header_block {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
